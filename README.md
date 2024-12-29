@@ -35,4 +35,5 @@ Este projeto foi desenvolvido exclusivamente como uma atividade acadêmica, mas 
 **Gabriel Zaneta Pinheiro**  
 Gran Faculdade  
 Matéria: Gestão de projeto e metodologias ágeis
+Tempo de desenvolvimento do programa: 5 horas.
 
